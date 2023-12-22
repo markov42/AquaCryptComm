@@ -1,1 +1,1 @@
-# AquaCryptComm
+# SecureHardwareVIP

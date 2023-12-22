@@ -1,0 +1,14 @@
+{
+    "stop": "pini",
+    "north": "sewi",
+    "northwest": "sewi suno",
+    "west": "suno pini",
+    "southwest": "anpa suno",
+    "south": "anpa",
+    "southeast": "suno anpa",
+    "east": "suno open",
+    "northeast": "suno sewi",
+    "forward": "sinpin",
+    "backward": "monsi",
+    "watch": "lukin"
+}
